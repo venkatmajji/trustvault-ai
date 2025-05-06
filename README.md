@@ -1,13 +1,14 @@
 
-# TrustVault Ultra Polished Landing (Next.js + Tailwind CSS)
+# TrustVault Customer Landing Page (Next.js + Tailwind)
 
 ## Highlights
-- Gradient Hero
-- Animated Sections
-- CTA with round buttons
-- Footer with links
+- Customer first (not investor)
+- Clear value prop + signup CTA
+- Waitlist form ready (no backend yet)
+- Vercel deploy ready
 
-## Run
+## Usage
 npm install
 npm run dev
-Then deploy to Vercel.
+
+Deploy to Vercel after adding form handler (optional).
