@@ -1,5 +1,5 @@
 
-# TrustVault Customer Landing Page (Next.js + Tailwind)
+# TrustVault Customer Landing Page 
 
 
 This is the landing page for TrustVault AI, an AI-powered assistant for system and software architects.
