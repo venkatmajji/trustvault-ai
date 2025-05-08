@@ -47,14 +47,11 @@ export default function LandingPage() {
             <p>Automatically align with EU AI Act, SOC 2, HIPAA and more.</p>
           </article>
           <article>
-            <h3 className="text-xl font-semibold mb-2">⚡ Fast Integration</h3>
+            <h3 className="text-xl font-semibold mb-2">⚡ Fast Integration & 💡 Evaluator Marketplace</h3>
             <p>Drop-in SDK for seamless integration with your AI workflows.</p>
-          </article>
-          <article>
-            <h3 className="text-xl font-semibold mb-2">💡 Evaluator Marketplace</h3>
             <p>Tap into trusted evaluators to validate AI behavior and risk.</p>
           </article>
-        </div>
+            </div>
       </section>
 
       {/* Demo Video Section */}
@@ -85,8 +82,8 @@ export default function LandingPage() {
         <div className="flex flex-wrap justify-center gap-6">
           <div className="bg-[#F0F4F8] rounded-lg shadow-md p-6 max-w-xs">
             <h4 className="text-xl font-semibold mb-2">1️⃣ Immutable and Verifiable AI Records </h4>
-            <p>"Never lose trust or get caught without proof." 
-              Every AI interaction is captured, hashed, and sealed to create tamper-proof, immutable audit trails — making it easy to certify decisions and prove compliance during audits or disputes.
+            <p><b></b>"Never lose trust or get caught without proof." </b></p>
+           <p>   Every AI interaction is captured, hashed, and sealed to create tamper-proof, immutable audit trails — making it easy to certify decisions and prove compliance during audits or disputes.
               Why this matters → Customers need verifiable proof of AI behavior to avoid fines, lawsuits, or reputational risk.</p>
           </div>
           <div className="bg-[#F0F4F8] rounded-lg shadow-md p-6 max-w-xs">
