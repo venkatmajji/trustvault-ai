@@ -47,8 +47,8 @@ export default function LandingPage() {
             <p>Automatically align with EU AI Act, SOC 2, HIPAA and more.</p>
           </article>
           <article>
-            <h3 className="text-xl font-semibold mb-2">⚡ Fast Integration & 💡 Evaluator Marketplace</h3>
-            <p>Drop-in SDK for seamless integration with your AI workflows.Tap into trusted evaluators to validate AI behavior and risk.</p>
+            <h3 className="text-xl font-semibold mb-2">⚡ Fast Integration & Evaluator Marketplace</h3>
+            <p>Drop-in SDK for seamless integration. Tap into trusted evaluators.</p>
        
           </article>
             </div>
