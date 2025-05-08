@@ -20,13 +20,13 @@ export default function LandingPage() {
       <header className="text-center px-6 py-24">
         <h1 className="text-5xl md:text-6xl font-bold mb-6">TrustVault AI</h1>
         <p className="text-xl md:text-2xl max-w-2xl mx-auto mb-8">
-          🛡️ Immutable Storage + Merkle Hashing. Daily PDF Certification; GRC Compliance Automation; Evaluator Marketplace
+          AI Verifiability is building the trust layer for AI by making model outputs independently auditable, traceable, and provable — turning AI from a black box into a verifiable system.
         </p>
         <button className="bg-[#3AB0FF] text-white px-6 py-3 rounded-xl text-lg font-semibold shadow-md hover:bg-[#329fdc] transition">
           Get Started
         </button>
         <p className="mt-12 text-sm text-slate-300">
-          Gowing trust with dev leads, Finance and Healthcare companies worlwide!
+          Gowing trust with dev leads, Finance and Healthcare companies worldwide!
         </p>
       </header>
 
