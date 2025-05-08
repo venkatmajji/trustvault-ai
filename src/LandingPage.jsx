@@ -48,8 +48,8 @@ export default function LandingPage() {
           </article>
           <article>
             <h3 className="text-xl font-semibold mb-2">⚡ Fast Integration & 💡 Evaluator Marketplace</h3>
-            <p>Drop-in SDK for seamless integration with your AI workflows.</p>
-            <p>Tap into trusted evaluators to validate AI behavior and risk.</p>
+            <p>Drop-in SDK for seamless integration with your AI workflows.Tap into trusted evaluators to validate AI behavior and risk.</p>
+       
           </article>
             </div>
       </section>
@@ -88,18 +88,18 @@ export default function LandingPage() {
           </div>
           <div className="bg-[#F0F4F8] rounded-lg shadow-md p-6 max-w-xs">
             <h4 className="text-xl font-semibold mb-2">2️⃣ Automated Compliance for AI Regulations</h4>
-            <p>"EU AI Act, HIPAA, SOC 2 — handled automatically."
-                TrustVault auto-generates certified records and supports out-of-the-box alignment with major frameworks → saving legal, security and engineering teams hundreds of hours.</p>
+            <p><b>"EU AI Act, HIPAA, SOC 2 — handled automatically."</b></p>
+               <p> TrustVault auto-generates certified records and supports out-of-the-box alignment with major frameworks → saving legal, security and engineering teams hundreds of hours.</p>
           </div>
           <div className="bg-[#F0F4F8] rounded-lg shadow-md p-6 max-w-xs">
             <h4 className="text-xl font-semibold mb-2">3️⃣ Plug & Play with Any AI / LLM Workflow</h4>
-            <p>"Instant SDK integration → no heavy lift."
-                With lightweight SDKs and APIs, TrustVault can wrap and track any AI / LLM system in real-time without affecting performance.</p>
+            <p><b>"Instant SDK integration → no heavy lift."</b></p>
+              <p>With lightweight SDKs and APIs, TrustVault can wrap and track any AI / LLM system in real-time without affecting performance.</p>
           </div>
           <div className="bg-[#F0F4F8] rounded-lg shadow-md p-6 max-w-xs">
             <h4 className="text-xl font-semibold mb-2">4️⃣ Evaluator Marketplace for Independent Verification</h4>
-            <p>"Third-party assurance, on-demand."
-              Beyond self-certifying, TrustVault offers a growing marketplace of expert evaluators who can assess and certify AI models, offering an additional layer of trust.</p>
+            <p><b>"Third-party assurance, on-demand."</b>
+             <p></p> Beyond self-certifying, TrustVault offers a growing marketplace of expert evaluators who can assess and certify AI models, offering an additional layer of trust.</p>
           </div>
         </div>
       </section>
