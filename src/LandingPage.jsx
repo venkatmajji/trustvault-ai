@@ -82,7 +82,7 @@ export default function LandingPage() {
         <div className="flex flex-wrap justify-center gap-6">
           <div className="bg-[#F0F4F8] rounded-lg shadow-md p-6 max-w-xs">
             <h4 className="text-xl font-semibold mb-2">1️⃣ Immutable and Verifiable AI Records </h4>
-            <p><b></b>"Never lose trust or get caught without proof." </b></p>
+            <p><b>"Never lose trust or get caught without proof." </b></p>
            <p>   Every AI interaction is captured, hashed, and sealed to create tamper-proof, immutable audit trails — making it easy to certify decisions and prove compliance during audits or disputes.
               Why this matters → Customers need verifiable proof of AI behavior to avoid fines, lawsuits, or reputational risk.</p>
           </div>
